@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "generatedAt": "2023-04-16T03:24:06+00:00"
+    },
+    "data": [
+        {
+            "ipAddress": "220.132.20.5",
+            "countryCode": "TW",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "216.218.206.101",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "211.253.170.241",
+            "countryCode": "KR",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "193.35.18.142",
+            "countryCode": "NL",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "184.105.247.218",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "184.105.139.118",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "184.105.139.89",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "180.119.69.81",
+            "countryCode": "CN",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "180.117.53.17",
+            "countryCode": "CN",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "143.42.49.207",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "121.5.66.231",
+            "countryCode": "CN",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "118.172.175.198",
+            "countryCode": "TH",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "114.33.179.189",
+            "countryCode": "TW",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "112.119.97.157",
+            "countryCode": "HK",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "107.189.31.134",
+            "countryCode": "LU",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "103.53.31.171",
+            "countryCode": "IN",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "90.39.149.189",
+            "countryCode": "FR",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "87.236.176.251",
+            "countryCode": "GB",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "75.181.80.225",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        },
+        {
+            "ipAddress": "74.82.47.52",
+            "countryCode": "US",
+            "abuseConfidenceScore": 100,
+            "lastReportedAt": "2023-04-16T03:17:01+00:00"
+        }
+    ]
+}
