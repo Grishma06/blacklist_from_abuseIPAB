@@ -1,0 +1,1 @@
+This is a project which helps getting all blacklisted IPs from abuseIPDB platform.
